@@ -1,2 +1,0 @@
-D:\PoriaHua\！好好学习\C++\多线程\Client\x64\Debug\Client.exe
-D:\PoriaHua\！好好学习\C++\wuliu3\Client\x64\Debug\Client.exe

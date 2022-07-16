@@ -1,2 +1,0 @@
-D:\PoriaHua\！好好学习\C++\多线程\Server\x64\Debug\Server.exe
-D:\PoriaHua\！好好学习\C++\wuliu3\Server\x64\Debug\Server.exe
